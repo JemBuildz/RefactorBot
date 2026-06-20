@@ -1,6 +1,0 @@
-{
-  "name": "RefactorBot",
-  "description": "Multi-agent society for autonomous code refactoring using GenAI, featuring Parser, Architect, Dev, QA, and Reviewer agents in a collaborative feedback loop.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
