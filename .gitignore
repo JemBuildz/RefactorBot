@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Build and output directories
+dist/
+output/
+deploy.zip
+
+# Environment variables
+.env
