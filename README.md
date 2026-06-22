@@ -5,6 +5,15 @@
 ![AI](https://img.shields.io/badge/Powered_by-Qwen_Turbo-8B5CF6?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+# 🧰 Built With
+
+* **Alibaba Cloud Function Compute** (Serverless, Custom Runtime Infrastructure)
+* **Alibaba Cloud DashScope API** (Qwen Large Language Models Engine)
+* **TypeScript & Node.js** (Core Backend Orchestration Router)
+* **Express.js** (Endpoint Routing & Serving Frontend Pipelines)
+* **HTML5 / CSS3 / JavaScript** (Glassmorphism Live-Timeline Client Dashboard)
+* **Mermaid.js** (Dynamic Graphical Architecture Mapping)
+
 **RefactorBot Society** is an autonomous, serverless multi-agent pipeline hosted on Alibaba Cloud Function Compute. Designed to modernize and secure legacy code, it triggers a "society" of specialized AI personas powered by Qwen Large Language Models to architect, write, and aggressively QA code before it ever reaches production.
 
 Built by JemBuildz.
