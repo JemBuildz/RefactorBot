@@ -35,6 +35,7 @@ When fed legacy monolithic code via the interactive Glassmorphism UI, it trigger
 Code is only output to the user once it survives this loop and passes the QA Engineer's strict approval.
 
 ---
+![RefactorBot Architecture](https://i.imgur.com/hA2Mx7G.png)
 
 ## 🗺️ Architecture Flow
 
@@ -76,6 +77,8 @@ graph TD
 
     I -->|JSON Response| A
 ```
+![RefactorBot Screenshot](https://i.imgur.com/RIth0Tg.png)
+
 ## 🛠️ Tech Stack
 AI Brain: Alibaba Cloud DashScope API (Qwen Large Language Models)
 
