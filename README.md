@@ -1,4 +1,5 @@
-# 🤖 RefactorBot Society
+![RefactorBot Log Screenshot](https://i.imgur.com/zStvpsZ.png)
+# RefactorBot Society
 
 ![Hackathon](https://img.shields.io/badge/Track_3-Agent_Society-blue?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Hosted_on-Alibaba_Cloud-FF6600?style=for-the-badge&logo=alibabacloud&logoColor=white)
