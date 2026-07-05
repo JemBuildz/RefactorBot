@@ -101,7 +101,7 @@ TypeScript
 Installation
 Clone the repository:
 ```Bash
-git clone [https://github.com/yourusername/refactorbot-society.git](https://github.com/yourusername/refactorbot-society.git)
+git clone [https://github.com/JemBuildz/RefactorBot](https://github.com/JemBuildz/RefactorBot)
 cd refactorbot-society
 ```
 Install dependencies:
