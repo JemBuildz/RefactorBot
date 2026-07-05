@@ -1,7 +1,7 @@
 ![RefactorBot Log Screenshot](https://i.imgur.com/zStvpsZ.png)
 # RefactorBot Society
 
-![Hackathon](https://img.shields.io/badge/Track_3-Agent_Society-blue?style=for-the-badge)
+![DevpostHackathon](https://img.shields.io/badge/Track_3-Agent_Society-blue?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Hosted_on-Alibaba_Cloud-FF6600?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![AI](https://img.shields.io/badge/Powered_by-Qwen_Turbo-8B5CF6?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
